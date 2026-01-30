@@ -1,7 +1,7 @@
 # Hi 👋, I'm Atikarn Tanuphan (Bonus)
 
 ### 🎓 Computer Science Student @ KMUTNB
-[cite_start]I am a 3rd-year CS student based in **Pathum Thani**, focusing on **Cyber Security** and **Security Engineering**. [cite: 1, 2, 40]
+I am a 3rd-year CS student based in **Pathum Thani**, focusing on **Cyber Security** and **Security Engineering**.
 
 ---
 
