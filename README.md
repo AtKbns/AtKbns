@@ -33,11 +33,6 @@ I am a 3rd-year CS student based in **Pathum Thani**, specializing in **Cyber Se
 
 ---
 
-### 🚀 Featured Projects
-- **Pentest Lab (Metasploitable3):** Privilege escalation to Root via reverse shell.
-- **Network Forensic:** Reconstructing private communications and auditing secure traffic via Wireshark.
-- **Rocket Shooting Game:** A 2D space shooter developed using **Java Swing (OOP)**.
-- **AI Predictive App:** Loan approval system using Keras and Scikit-learn on Streamlit.
 
 ---
 
