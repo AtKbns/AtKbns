@@ -26,14 +26,6 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-### 🚀 Featured Projects
-- [cite_start]**Pentest Lab:** Root access escalation on Metasploitable3. [cite: 11, 13]
-- [cite_start]**Network Audit:** Reconstructing private chats and VoIP streams via Wireshark. [cite: 22]
-- [cite_start]**AI Predictive App:** Loan approval and digit recognition using Keras & Scikit-learn. [cite: 14, 15, 16]
-
----
 
 ### 📫 Contact Me
 - [cite_start]📧 Email: [Bonusatk@gmail.com](mailto:Bonusatk@gmail.com) [cite: 10]
