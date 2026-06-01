@@ -37,8 +37,7 @@ I am a 3rd-year CS student Loving in **Cyber Security** and **Security Engineeri
 
 ### 📫 Contact Me
 - 📧 Email: [Bonusatk@gmail.com](mailto:Bonusatk@gmail.com)
-- 📞 Phone: 092-820-6592
-- 📍 Location: Pathum Thani, Thailand
+- 📍 Location: TH
 ### 📱 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/myheartsosourwithoutyou_?igsh=MTF5aHY0MnZnbGpydQ%3D%3D&utm_source=qr)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/share/1CSpehCxMc/?mibextid=wwXIfr)
